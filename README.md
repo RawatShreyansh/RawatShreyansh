@@ -9,7 +9,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=RawatShreyansh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
+<a href="https://app.daily.dev/shreyanshrawat"><img src="https://api.daily.dev/devcards/v2/nDq6fns4ZWfYciQdhx99C.png?type=default&r=xlw" width="356" alt="Shreyansh Rawat's Dev Card"/></a>
 [![](https://visitcount.itsvg.in/api?id=RawatShreyansh&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<a href="https://app.daily.dev/shreyanshrawat"><img src="https://api.daily.dev/devcards/v2/nDq6fns4ZWfYciQdhx99C.png?type=default&r=xlw" width="356" alt="Shreyansh Rawat's Dev Card"/></a>
+
