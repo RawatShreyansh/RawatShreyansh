@@ -9,7 +9,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=RawatShreyansh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-
+[![An image of @rawatshreyansh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rawatshreyansh)](https://holopin.io/@rawatshreyansh)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
