@@ -9,6 +9,25 @@
 ![](https://github-profile-trophy.vercel.app/?username=RawatShreyansh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
+<!-- Visitors count -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RawatShreyansh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
+<!-- Profile stats card + Top skills (languages) -->
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RawatShreyansh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RawatShreyansh&layout=compact&theme=tokyonight&hide_border=true" alt="Top skills" />
+</p>
+
+<!-- Streak stats -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=RawatShreyansh&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<!-- Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RawatShreyansh&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub trophies" />
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
