@@ -5,10 +5,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RawatShreyansh&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RawatShreyansh&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RawatShreyansh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
 <!-- Visitors count -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RawatShreyansh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -16,13 +12,8 @@
 
 <!-- Profile stats card + Top skills (languages) -->
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RawatShreyansh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RawatShreyansh&layout=compact&theme=tokyonight&hide_border=true" alt="Top skills" />
-</p>
-
-<!-- Streak stats -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=RawatShreyansh&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img height="170" src="https://YOUR-PROJECT.vercel.app/api?username=RawatShreyansh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://YOUR-PROJECT.vercel.app/api/top-langs/?username=RawatShreyansh&layout=compact&theme=tokyonight&hide_border=true" alt="Top skills" />
 </p>
 
 <!-- Trophies -->
